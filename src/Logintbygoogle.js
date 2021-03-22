@@ -34,8 +34,8 @@ export class Logintbygoogle extends Component {
                     Dashboard
                 </button> */}
 
-                <GoogleLogin 
-                    clientId="454272644919-5fosgnsig1v35gma25vfcnk30q6ld05q.apps.googleusercontent.com"
+                <GoogleLogin
+                    clientId="Chave ID"
                     buttonText=" Login with Google"
                     onSuccess={responseGoogle}>
                 </GoogleLogin>
